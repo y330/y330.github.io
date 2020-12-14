@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "value": "#edc240"
       },
       "shape": {
-        "type": "square",
+        "type": "triangle",
         "stroke": {
           "width": 0,
           "color": "#000000"
