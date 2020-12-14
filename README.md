@@ -1,7 +1,7 @@
-# Resume website 
-https://yonahaviv.netlify.com
-# Credits 
+# Resume website using [particles.js](https://github.com/VincentGarreau/particles.js/)
+https://y330.github.io
 
-**Creator of Particle Jekyll Theme: [Nathan Randecker](https://github.com/nrandecker)** 
-> Go to [particles](https://github.com/nrandecker/particle) for the inspiration.
+# Credits 
+Creator of particles.js library: [@VincentGarreau](https://github.com/VincentGarreau)
+Got inspiration feom [particles](https://github.com/nrandecker/particle)
 
