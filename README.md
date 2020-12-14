@@ -2,6 +2,8 @@
 https://y330.github.io
 
 # Credits 
-Creator of particles.js library: [@VincentGarreau](https://github.com/VincentGarreau)
-Got inspiration feom [particles](https://github.com/nrandecker/particle)
+
+**Creator of particles.js library:** @VincentGarreau](https://github.com/VincentGarreau)
+
+**Inspiration**: [particles](https://github.com/nrandecker/particle)
 
