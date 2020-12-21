@@ -1,6 +1,6 @@
-/* load perfectSctollbar */
+/* load perfect  */
 document.addEventListener("DOMContentLoaded", function () {
-  const perfectScrollbar = new PerfectScrollbar({/* some options */});
+  const perfectScroll = new perfectScroll({/* some options */});
 
   /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
   particlesJS('particles-js', {
