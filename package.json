@@ -1,7 +1,7 @@
 {
-  "name": "jekyll-resume-smooth",
+  "name": "yonahs-responsive-resume",
   "version": "1.0.0",
-  "description": "This is a simple Jekyll theme for a smooth resume website, using particles.js.",
+  "description": "This is a resume website made using a Jekyll theme and particles.js.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
