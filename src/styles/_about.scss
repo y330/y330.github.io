@@ -31,12 +31,12 @@
   p, li{
     font-size: 16px;
   }
-  button {
+  button.install {
     background: slategray;
     border: 2px cornflowerblue solid;
     border-radius: 20%;
   }
-  button:hover {
+  button.install:hover {
       background-color: cornflowerblue; 
   }
   @media only screen and (min-width: $cut) {
@@ -54,6 +54,14 @@
   justify-content: space-between;
   p {
     font-size: 16px;
+  }
+  button.install{
+      background: slategray;
+    border: 2px cornflowerblue solid;
+    border-radius: 20%;
+  }
+  button.install:hover {
+      background-color: cornflowerblue; 
   }
   @media only screen and (min-width: $cut) {
     flex-wrap: nowrap;
