@@ -1,15 +1,16 @@
 # Site settings
-title: Yonah Aviv - About
-description: Responsive Resume
+title: Yonah's Website
+description: About me
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://y330.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://y330.github.io" # the base hostname & protocol for your site
 
 # User settings
 username: Yonah Aviv
-user_description: High school student with some computer programmering experience.
+user_description: I'm a highschool student that is interested in computer programming and engineering.
 user_title: Student
 email: avivyonah@gmail.com
 # twitter_username: lorem_ipsum
+instagram_username: yonah.aviv
 github_username:  y330
 # gplus_username:  lorem_ipsum
 
