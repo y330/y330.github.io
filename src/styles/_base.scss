@@ -51,14 +51,16 @@ sup, sub {
     line-height: 0;
 }
 button {
-    background: slategray;
-    border: 2px cornflowerblue solid;
+	border: 2px cornflowerblue solid;
     border-radius: 20%;
 }
-button:hover {
-    background-color: cornflowerblue; 
+button a {
+	color: grey;
+}
+button:hover a {
+    color: cornflowerblue; 
 }
 svg {
-    width: 60px !important;
-    height: auto;
+    width: 60px;
+    height: 60px;
   }
