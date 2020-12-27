@@ -50,3 +50,12 @@ a img {
 sup, sub {
     line-height: 0;
 }
+
+    button{
+      background: slategray;
+    border: 2px cornflowerblue solid;
+    border-radius: 20%;
+  }
+  button:hover {
+      background-color: cornflowerblue; 
+  }
