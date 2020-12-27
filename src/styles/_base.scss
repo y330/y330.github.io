@@ -50,3 +50,11 @@ a img {
 sup, sub {
     line-height: 0;
 }
+    button.install{
+      background: slategray;
+    border: 2px cornflowerblue solid;
+    border-radius: 20%;
+  }
+  button.install:hover {
+      background-color: cornflowerblue; 
+  }
