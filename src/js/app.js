@@ -49,10 +49,10 @@ document.addEventListener("DOMContentLoaded", function() {
             },
             line_linked: {
                 enable: !0,
-                distance: 200,
+                distance: 400,
                 color: "#ffff00",
                 opacity: .4,
-                width: 1
+                width: 2
             },
             move: {
                 enable: !0,
@@ -61,11 +61,11 @@ document.addEventListener("DOMContentLoaded", function() {
                 random: !0,
                 straight: !1,
                 out_mode: "out",
-                bounce: !1,
+                bounce: !0,
                 attract: {
                     enable: !0,
                     rotateX: 222,
-                    rotateY: 12200
+                    rotateY: 1220
                 }
             },
             nb: 100
@@ -92,7 +92,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 },
                 bubble: {
                     distance: 100,
-                    size: 18,
+                    size: 12,
                     duration: 2,
                     opacity: 0.3,
                     speed: 0.21
