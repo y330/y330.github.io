@@ -1,13 +1,13 @@
 # Site settings
 title: Yonah Aviv
-description: My personal website using a cool particle effect
+description: Yonah's personal website ⚠ SOON TO BE RECODED
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://y330.github.io" # the base hostname & protocol for your site
 
 # User settings
 username: Yonah Aviv
-user_description: I'm a highschool student that is actively learning computer programming/engineering. My interests include physics, machine learning, web development, and mathematics.
-user_title: Student
+user_description: I am a senior highschool student that is actively learning computer programming/engineering. My interests include cybersecurity, machine learning, web development, and NLP.
+user_title: Student and Lead Web Developer at Zlern
 email: avivyonah@gmail.com
 # twitter_username: lorem_ipsum
 instagram_username: yonah.aviv
